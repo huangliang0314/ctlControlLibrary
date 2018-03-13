@@ -1,0 +1,8 @@
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\ConsoleApplication1\bin\Debug\protobuf-net.dll
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\ConsoleApplication1\bin\Debug\protobuf-net.xml
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\ConsoleApplication1\obj\Debug\ProtoBuf序列化工具.csprojResolveAssemblyReference.cache
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

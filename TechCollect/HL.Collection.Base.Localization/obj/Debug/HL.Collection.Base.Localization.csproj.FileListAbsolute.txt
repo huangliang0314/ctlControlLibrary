@@ -1,0 +1,9 @@
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\HL.Collection.Base.Localization\bin\Debug\HL.Collection.Base.Localization.exe.config
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\HL.Collection.Base.Localization\bin\Debug\HL.Collection.Base.Localization.exe
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\HL.Collection.Base.Localization\bin\Debug\HL.Collection.Base.Localization.pdb
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\HL.Collection.Base.Localization\obj\Debug\HL.Collection.Base.Localization.csprojResolveAssemblyReference.cache
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\HL.Collection.Base.Localization\obj\Debug\HL.Collection.Base.Localization.Form1.resources
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\HL.Collection.Base.Localization\obj\Debug\HL.Collection.Base.Localization.Properties.Resources.resources
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\HL.Collection.Base.Localization\obj\Debug\HL.Collection.Base.Localization.csproj.GenerateResource.Cache
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\HL.Collection.Base.Localization\obj\Debug\HL.Collection.Base.Localization.exe
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\HL.Collection.Base.Localization\obj\Debug\HL.Collection.Base.Localization.pdb

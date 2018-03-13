@@ -1,0 +1,6 @@
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\HL.Collection.Base.Tuble\bin\Debug\HL.Collection.Base.Tuble.exe.config
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\HL.Collection.Base.Tuble\bin\Debug\HL.Collection.Base.Tuble.exe
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\HL.Collection.Base.Tuble\bin\Debug\HL.Collection.Base.Tuble.pdb
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\HL.Collection.Base.Tuble\obj\Debug\HL.Collection.Base.Tuble.csprojResolveAssemblyReference.cache
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\HL.Collection.Base.Tuble\obj\Debug\HL.Collection.Base.Tuble.exe
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\HL.Collection.Base.Tuble\obj\Debug\HL.Collection.Base.Tuble.pdb

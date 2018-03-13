@@ -1,0 +1,7 @@
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\ClassLibrary1\obj\Debug\ClassLibrary1.UserControl1.resources
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.GenerateResource.Cache
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

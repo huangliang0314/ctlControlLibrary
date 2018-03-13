@@ -1,0 +1,13 @@
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\HL.Collection.Base.wpfParallel\bin\Debug\HL.Collection.Base.wpfParallel.exe.config
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\HL.Collection.Base.wpfParallel\bin\Debug\HL.Collection.Base.wpfParallel.exe
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\HL.Collection.Base.wpfParallel\bin\Debug\HL.Collection.Base.wpfParallel.pdb
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\HL.Collection.Base.wpfParallel\obj\Debug\HL.Collection.Base.wpfParallel.csprojResolveAssemblyReference.cache
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\HL.Collection.Base.wpfParallel\obj\Debug\MainWindow.baml
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\HL.Collection.Base.wpfParallel\obj\Debug\MainWindow.g.cs
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\HL.Collection.Base.wpfParallel\obj\Debug\App.g.cs
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\HL.Collection.Base.wpfParallel\obj\Debug\HL.Collection.Base.wpfParallel_MarkupCompile.cache
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\HL.Collection.Base.wpfParallel\obj\Debug\HL.Collection.Base.wpfParallel.g.resources
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\HL.Collection.Base.wpfParallel\obj\Debug\HL.Collection.Base.wpfParallel.Properties.Resources.resources
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\HL.Collection.Base.wpfParallel\obj\Debug\HL.Collection.Base.wpfParallel.csproj.GenerateResource.Cache
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\HL.Collection.Base.wpfParallel\obj\Debug\HL.Collection.Base.wpfParallel.exe
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\HL.Collection.Base.wpfParallel\obj\Debug\HL.Collection.Base.wpfParallel.pdb

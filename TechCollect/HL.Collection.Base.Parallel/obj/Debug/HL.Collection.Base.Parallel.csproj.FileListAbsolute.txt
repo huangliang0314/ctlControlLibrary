@@ -1,0 +1,6 @@
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\HL.Collection.Base.Parallel\obj\Debug\HL.Collection.Base.Parallel.csprojResolveAssemblyReference.cache
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\HL.Collection.Base.Parallel\bin\Debug\HL.Collection.Base.Parallel.exe.config
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\HL.Collection.Base.Parallel\bin\Debug\HL.Collection.Base.Parallel.exe
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\HL.Collection.Base.Parallel\bin\Debug\HL.Collection.Base.Parallel.pdb
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\HL.Collection.Base.Parallel\obj\Debug\HL.Collection.Base.Parallel.exe
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\HL.Collection.Base.Parallel\obj\Debug\HL.Collection.Base.Parallel.pdb

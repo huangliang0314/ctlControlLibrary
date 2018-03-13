@@ -1,0 +1,6 @@
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\BuffConvert\bin\Debug\BuffConvert.exe.config
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\BuffConvert\bin\Debug\BuffConvert.exe
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\BuffConvert\bin\Debug\BuffConvert.pdb
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\BuffConvert\obj\Debug\BuffConvert.csprojResolveAssemblyReference.cache
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\BuffConvert\obj\Debug\BuffConvert.exe
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\BuffConvert\obj\Debug\BuffConvert.pdb

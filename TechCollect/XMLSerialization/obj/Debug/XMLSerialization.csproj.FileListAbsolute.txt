@@ -1,0 +1,9 @@
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\XMLSerialization\obj\Debug\XMLSerialization.csprojResolveAssemblyReference.cache
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\XMLSerialization\obj\Debug\XMLSerialization.Properties.Resources.resources
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\XMLSerialization\obj\Debug\XMLSerialization.csproj.GenerateResource.Cache
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\XMLSerialization\bin\Debug\XMLSerialization.exe.config
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\XMLSerialization\bin\Debug\XMLSerialization.exe
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\XMLSerialization\bin\Debug\XMLSerialization.pdb
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\XMLSerialization\obj\Debug\XMLSerialization.exe
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\XMLSerialization\obj\Debug\XMLSerialization.pdb
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\XMLSerialization\obj\Debug\XMLSerialization.Form1.resources

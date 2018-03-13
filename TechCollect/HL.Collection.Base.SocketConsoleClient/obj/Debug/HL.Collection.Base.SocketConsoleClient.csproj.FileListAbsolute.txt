@@ -1,0 +1,6 @@
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\HL.Collection.Base.SocketConsoleClient\bin\Debug\HL.Collection.Base.SocketConsoleClient.exe.config
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\HL.Collection.Base.SocketConsoleClient\bin\Debug\HL.Collection.Base.SocketConsoleClient.exe
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\HL.Collection.Base.SocketConsoleClient\bin\Debug\HL.Collection.Base.SocketConsoleClient.pdb
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\HL.Collection.Base.SocketConsoleClient\obj\Debug\HL.Collection.Base.SocketConsoleClient.csprojResolveAssemblyReference.cache
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\HL.Collection.Base.SocketConsoleClient\obj\Debug\HL.Collection.Base.SocketConsoleClient.exe
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\HL.Collection.Base.SocketConsoleClient\obj\Debug\HL.Collection.Base.SocketConsoleClient.pdb

@@ -1,0 +1,9 @@
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\WFEnum(检索指定枚举中数值的数组)\obj\Debug\WFEnum(检索指定枚举中数值的数组).csprojResolveAssemblyReference.cache
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\WFEnum(检索指定枚举中数值的数组)\obj\Debug\WFEnum_检索指定枚举中数值的数组_.Form1.resources
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\WFEnum(检索指定枚举中数值的数组)\obj\Debug\WFEnum_检索指定枚举中数值的数组_.Properties.Resources.resources
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\WFEnum(检索指定枚举中数值的数组)\obj\Debug\WFEnum(检索指定枚举中数值的数组).csproj.GenerateResource.Cache
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\WFEnum(检索指定枚举中数值的数组)\bin\Debug\WFEnum(检索指定枚举中数值的数组).exe.config
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\WFEnum(检索指定枚举中数值的数组)\bin\Debug\WFEnum(检索指定枚举中数值的数组).exe
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\WFEnum(检索指定枚举中数值的数组)\bin\Debug\WFEnum(检索指定枚举中数值的数组).pdb
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\WFEnum(检索指定枚举中数值的数组)\obj\Debug\WFEnum(检索指定枚举中数值的数组).exe
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\WFEnum(检索指定枚举中数值的数组)\obj\Debug\WFEnum(检索指定枚举中数值的数组).pdb

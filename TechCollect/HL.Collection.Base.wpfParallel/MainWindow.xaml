@@ -1,0 +1,13 @@
+﻿<Window x:Class="HL.Collection.Base.wpfParallel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <RichTextBox x:Name="txtConsole" HorizontalAlignment="Left" Height="214" Margin="67,64,0,0" VerticalAlignment="Top" Width="367" TextChanged="txtConsole_TextChanged">
+            <FlowDocument/>
+        </RichTextBox>
+        <ContentControl Content="ContentControl" HorizontalAlignment="Left" Margin="493,83,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnClick" Content="EXCUTE" HorizontalAlignment="Left" Margin="98,19,0,0" VerticalAlignment="Top" Width="182" Height="30"/>
+
+    </Grid>
+</Window>

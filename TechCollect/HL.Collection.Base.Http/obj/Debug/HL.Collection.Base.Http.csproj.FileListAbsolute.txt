@@ -1,0 +1,9 @@
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\HL.Collection.Base.Http\bin\Debug\HL.Collection.Base.Http.exe.config
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\HL.Collection.Base.Http\bin\Debug\HL.Collection.Base.Http.exe
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\HL.Collection.Base.Http\bin\Debug\HL.Collection.Base.Http.pdb
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\HL.Collection.Base.Http\obj\Debug\HL.Collection.Base.Http.csprojResolveAssemblyReference.cache
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\HL.Collection.Base.Http\obj\Debug\HL.Collection.Base.Http.Form1.resources
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\HL.Collection.Base.Http\obj\Debug\HL.Collection.Base.Http.Properties.Resources.resources
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\HL.Collection.Base.Http\obj\Debug\HL.Collection.Base.Http.csproj.GenerateResource.Cache
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\HL.Collection.Base.Http\obj\Debug\HL.Collection.Base.Http.exe
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\HL.Collection.Base.Http\obj\Debug\HL.Collection.Base.Http.pdb

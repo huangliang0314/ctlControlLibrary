@@ -1,0 +1,12 @@
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UserControl1.resources
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\向普科技\Documents\Visual Studio 2012\Projects\TechCollect\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
